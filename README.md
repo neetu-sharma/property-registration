@@ -1,5 +1,6 @@
 # property-registration project
 Hyperledge-fabric based project
+
 Commands to bootstrap the network(Terminal 1)
 1. Go to the property registration project using command:
 cd workspace/property-registration/network
