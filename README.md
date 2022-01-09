@@ -1,2 +1,2 @@
-# property-registration
-Hyperledger-based project
+# property-registration project
+Hyperledge-fabric based project
